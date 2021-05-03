@@ -125,7 +125,7 @@ public class PlaySong extends AppCompatActivity {
                 textView.setText(textContent);
             }
         });
-
+//
         next.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
